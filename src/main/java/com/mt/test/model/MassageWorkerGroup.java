@@ -4,6 +4,9 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * 技师队列
+ */
 public class MassageWorkerGroup {
     Deque<MassageWorker> massageWorkerGroup;
 

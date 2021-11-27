@@ -2,6 +2,9 @@ package com.mt.test.model;
 
 import com.mt.test.model.common.ToString;
 
+/**
+ * 单个技师
+ */
 public class MassageWorker extends ToString implements Cloneable {
     /**
      * 开始空闲的时间点
