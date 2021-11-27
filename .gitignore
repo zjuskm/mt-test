@@ -1,0 +1,50 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# mac
+.DS_Store
+
+
+# Can ignore specific files
+target
+*/.classpath
+.project
+*.classpath
+# Use wildcards as well
+*~
+*.project
+.settings
+/.settings
+*_res.yaml
+# Log file
+*.log
+*.log.*
+*/logs/*.log.*
+
+# Compiled class file
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+app/test/bin/
+bin/
+
+# mac
+*.DS_Store
